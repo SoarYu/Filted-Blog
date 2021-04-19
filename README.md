@@ -67,8 +67,6 @@
 
 **3.个人文章管理页面**
 
-![user](https://user-images.githubusercontent.com/51791348/115278864-8f76b100-a178-11eb-9396-c47919ad3cfd.png)
-
 **4.博客主页**
 
 
