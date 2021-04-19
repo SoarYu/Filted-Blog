@@ -58,21 +58,27 @@
 
 # 预览
 **注册页面**
+
 ![register](https://user-images.githubusercontent.com/51791348/115271752-3e62bf00-a170-11eb-8a69-f02f70e47241.png)
 
 **登录页面**
+
 ![login](https://user-images.githubusercontent.com/51791348/115271873-605c4180-a170-11eb-8500-1cf40028d705.png)
 
 **个人博文管理页面**
+
 ![user](https://user-images.githubusercontent.com/51791348/115278864-8f76b100-a178-11eb-9396-c47919ad3cfd.png)
 
 **博客主页**
+
 ![index](https://user-images.githubusercontent.com/51791348/115279326-2c394e80-a179-11eb-9d8a-ffa85c8b04f0.png)
 
 **文章详细内容**
+
 ![details](https://user-images.githubusercontent.com/51791348/115278997-ba610500-a178-11eb-93a5-e759512473b9.png)
 
 **文章编辑界面**
+
 ![edit](https://user-images.githubusercontent.com/51791348/115271870-5fc3ab00-a170-11eb-8a58-01f75e202e6a.png)
 
 
