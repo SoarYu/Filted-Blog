@@ -67,13 +67,24 @@
 
 **3.个人文章管理页面**
 
+![user](https://user-images.githubusercontent.com/51791348/115293391-d620d700-a189-11eb-8292-22a4044d0252.png)
+
+
 **4.博客主页**
+
+![index](https://user-images.githubusercontent.com/51791348/115293441-e638b680-a189-11eb-9556-8e64247bb8b1.png)
+
 
 
 **5.文章详细内容**
 
+![details](https://user-images.githubusercontent.com/51791348/115293518-02d4ee80-a18a-11eb-90d9-a84988c258be.png)
+
 
 **6.文章编辑界面**
+
+![edit](https://user-images.githubusercontent.com/51791348/115293563-11bba100-a18a-11eb-845b-cb63e7ec73df.png)
+
 
 
 
