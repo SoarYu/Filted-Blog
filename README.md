@@ -71,7 +71,6 @@
 
 **4.博客主页**
 
-![index](https://user-images.githubusercontent.com/51791348/115279326-2c394e80-a179-11eb-9d8a-ffa85c8b04f0.png)
 
 **5.文章详细内容**
 
