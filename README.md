@@ -75,10 +75,8 @@
 
 **5.文章详细内容**
 
-![details](https://user-images.githubusercontent.com/51791348/115278997-ba610500-a178-11eb-93a5-e759512473b9.png)
 
 **6.文章编辑界面**
 
-![edit](https://user-images.githubusercontent.com/51791348/115271870-5fc3ab00-a170-11eb-8a58-01f75e202e6a.png)
 
 
