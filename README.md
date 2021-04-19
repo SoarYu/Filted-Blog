@@ -59,8 +59,8 @@
 # 预览
 ![register](https://user-images.githubusercontent.com/51791348/115271752-3e62bf00-a170-11eb-8a69-f02f70e47241.png)
 ![login](https://user-images.githubusercontent.com/51791348/115271873-605c4180-a170-11eb-8500-1cf40028d705.png)
-![index](https://user-images.githubusercontent.com/51791348/115271871-5fc3ab00-a170-11eb-9132-f9a5ac97ee7f.png)
 ![user](https://user-images.githubusercontent.com/51791348/115271876-605c4180-a170-11eb-94ba-b2cc8ac80dae.png)
+![index](https://user-images.githubusercontent.com/51791348/115271871-5fc3ab00-a170-11eb-9132-f9a5ac97ee7f.png)
 ![details](https://user-images.githubusercontent.com/51791348/115271865-5df9e780-a170-11eb-883f-9e9bfb54b7f0.png)
 ![edit](https://user-images.githubusercontent.com/51791348/115271870-5fc3ab00-a170-11eb-8a58-01f75e202e6a.png)
 
