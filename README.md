@@ -86,5 +86,13 @@
 ![edit](https://user-images.githubusercontent.com/51791348/115293563-11bba100-a18a-11eb-845b-cb63e7ec73df.png)
 
 
+# 本地运行该项目
+**前端:** 进入blog-vue，打开cmd窗口，使用npm运行该项目 npm run serve
 
+**后端 :**
+
+使用sql脚本生成对应的数据库
+用java的idea打开blog-springboot
+配置application.yml，
+修改对应的数据库连接参数，redis的端口号
 
