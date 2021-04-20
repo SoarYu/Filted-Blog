@@ -58,7 +58,8 @@
 缺点：不会命中的敏感词也会进行匹配运算
 
 # 预览
-  账号admin 密码123456
+    账号admin 密码123456
+  
 **1.注册页面**
 
 ![register](https://user-images.githubusercontent.com/51791348/115271752-3e62bf00-a170-11eb-8a69-f02f70e47241.png)
